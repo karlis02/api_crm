@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Karla",
+      "empresa": "UCR",
+      "email": "karli.02@hotmail.com",
+      "telefono": "211321232",
+      "notas": "xddddd",
+      "id": 1
+    },
+    {
+      "nombre": "Rosa Ana López ",
+      "empresa": "Laurel del Sur",
+      "email": "ana.27@hotmail.com",
+      "telefono": "4366343454",
+      "notas": "ejemplo",
+      "id": 2
+    },
+    {
+      "nombre": "Fabricio López",
+      "empresa": "UCR - Farmacia",
+      "email": "fabri.13@hotmail.com",
+      "telefono": "28219991",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Wilmer L.C",
+      "empresa": "UCR -Info",
+      "email": "wil@gmail.com",
+      "telefono": "233121",
+      "notas": "watatata",
+      "id": 4
+    }
+  ]
+}
